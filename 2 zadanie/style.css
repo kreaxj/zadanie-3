@@ -1,0 +1,133 @@
+body {
+	background-color: #f8f8f8;
+}
+
+.drop {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -160px;
+	vertical-align: 20px;
+}
+
+nav {
+	text-align: center;
+	padding: 20px;
+}
+
+.desk {
+	color:black;
+	font-size: 18px;
+	font-weight:400px;
+	background-color:#eaeaea;
+}
+
+.desk1 {
+	color:#707070;
+	font-size:14px;
+	font-style:italic;
+	line-height:16px;
+}
+	
+.link {
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 180px;
+	margin-top: 70px;
+	
+}
+
+.logo {
+	font-size: 30px;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+ul {
+  list-style-type:  none;
+}
+
+.horisontal-ul li {
+   display: inline-block;
+   margin-top: 70px;
+}
+
+.buttons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+}
+
+img {
+  border: 2px solid #d4d4d4;
+  border-radius: 20px;
+}
+
+.cont {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+  
+  
+ main {
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+ }
+ 
+ .kontakt {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0
+}
+
+.z {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.x {
+    margin-left: 30px;
+}
+
+.c {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.c:hover {
+    color: #ff6600;
+
+.v {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.cont {
+    background-color: #ffffff;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
